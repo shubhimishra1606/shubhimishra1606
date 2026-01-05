@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there, I'm Shubhi Mishra! 👋<br><br>I'm a passionate Full Stack Developer who loves building digital products that make a difference. I enjoy solving complex problems and learning new technologies.<br><br>- 🔭 I’m currently working on: Elevate-An AI Resume Builder<br>- 🌱 I’m currently practicing: MERN Stack<br>- 💬 Ask me about: React, Python, or Open Source<br>- 📫 How to reach me: Catch and follow me from the above links, in addition to follow me here<br>- 🤔 I’m currently open for: A new Internship opportunity and Open Source Projects
+# Hi there, I'm Shubhi Mishra! 👋<br><br>I'm a passionate Full Stack Developer who loves building digital products that make a difference. I enjoy solving complex problems and learning new technologies.<br><br>- 🔭 I’m currently working on: Elevate-An AI Resume Builder<br>- 🌱 I’m currently practicing: MERN Stack<br>- 💬 Ask me about: React, Python, or Open Source<br>- 📫 How to reach me: Catch and follow me from the links given below<br>- 🤔 I’m currently open for: A new Internship opportunity and Open Source Projects
 
 
 ## 🌐 Socials:
