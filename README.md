@@ -8,8 +8,8 @@
 
 ### 🔭 Current Focus
 
-- 🌱 **Deep Diving:** Advanced MERN Stack & Next.js architectures
-- 💬 **Ask Me About:** React, C++, Python, or Open Source
+- 🌱 **Deep Diving:** Machine Learning and GenAI
+- 💬 **Ask Me About:** C++, Python, ML, DL, React 
 - 📬 **Reach Me:** Drop a line via the social links below!
 
 ---
@@ -31,33 +31,32 @@ With a focus on building efficient backend logic and beautiful, minimalist user 
   <img src="https://img.shields.io/badge/React-%2320232A.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-%23404D59.svg?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
 </p>
 
 #### 🗄️ Databases & Design Tools
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-%234aa35a.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 ---
 
-### 📊 GitHub Metrics
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhimishra1606&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="160" />
-</p>
-
----
 
 ### 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/shubhi-mishra-1a1a83375" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:shubhi2006m@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<a href="https://linkedin.com/in/shubhi-mishra-1a1a83375">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:shubhi2006m@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://shubhimishra.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://github.com/shubhimishra1606">
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
+</a>
