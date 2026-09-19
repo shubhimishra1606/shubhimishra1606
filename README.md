@@ -22,7 +22,7 @@
 ## `~/overview`
 
 ```yaml
-status: "Building Full-Stack Web & Applied AI Systems"
+status: "Building Full-Stack & Applied AI Systems"
 milestones: ["Semi-finalist @ET GenAI Hackathon", "Global Rank 1 @EY Techathon (round 1)"]
 current_focus: ["Scalable MERN/FastAPI Apps", "Applied ML & LLMs", "DSA in C++"]
 problem_solving: "LeetCode 1620+ (Top 21% Globally), 600+ ques solved"
@@ -48,10 +48,10 @@ open_to: ["Software Engineering Internships", "Applied AI / Full-Stack Roles"]
 
 <br/>
 
-## ~/featured work
+## `~/featured work`
 <!--project 1-->
 <details open>
-<summary><b>01. <a href="https://github.com/shubhimishra1606/shubhimishra1606">FemWell</a> — Women’s Health Screening Platform (Ongoing)</b></summary>
+<summary><b>01. <a href="https://github.com/shubhimishra1606/FemWell">FemWell</a> — Women’s Health Screening Platform (Ongoing)</b></summary>
 <br>
 
 > `Python` · `Machine Learning` · `FastAPI` · `PostgreSQL` · `JWT Auth`
@@ -77,7 +77,7 @@ open_to: ["Software Engineering Internships", "Applied AI / Full-Stack Roles"]
 
 <!--project 3-->
 <details>
-<summary><b>03. <a href="https://github.com/shubhimishra1606/shubhimishra1606">CodexAI</a> — AI Code Reviewer & Debugger</b></summary>
+<summary><b>03. <a href="https://github.com/shubhimishra1606/CodexAI">CodexAI</a> — AI Code Reviewer & Debugger</b></summary>
 <br>
 
 > `Generative AI` · `LLM APIs` · `React.js` · `Node.js` · `Tailwind CSS`
