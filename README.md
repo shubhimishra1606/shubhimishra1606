@@ -49,20 +49,35 @@ open_to: ["Software Engineering Internships", "Applied AI / Full-Stack Roles"]
 <br/>
 
 ## `~/featured work`
+<!--project 1-->
+<details open>
+<summary><b>01. <a href="https://github.com/shubhimishra1606/FemWell">FemWell</a> — Women’s Health Screening Platform (Ongoing)</b></summary>
+<br>
+>  `Python` · `Machine Learning` · `FastAPI` · `PostgreSQL` · `JWT Auth`
+- screening models for PCOS and Anemia with accelerated inference via FastAPI backend.
+- secure JWT auth and schema for tracking historical records in PostgreSQL.
+- Built an interactive interface for symptom input and risk visualization.
+</details>
 
-<p align="center">
-  <a href="https://github.com/shubhimishra1606/FemWell">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhimishra1606&repo=FemWell&theme=github_dark&bg_color=161b22&title_color=f78166&text_color=8b949e&icon_color=58a6ff&border_color=30363d" width="48%" />
-  </a>
-  <a href="https://github.com/shubhimishra1606/KrishiRakshak">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhimishra1606&repo=KrishiRakshak&theme=github_dark&bg_color=161b22&title_color=f78166&text_color=8b949e&icon_color=58a6ff&border_color=30363d" width="48%" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/shubhimishra1606/CodexAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhimishra1606&repo=CodexAI&theme=github_dark&bg_color=161b22&title_color=f78166&text_color=8b949e&icon_color=58a6ff&border_color=30363d" width="48%" />
-  </a>
-</p>
+<!--project 2-->
+<details>
+<summary><b><u>02. KrishiRakshak — Plant Disease Detection System</u></b></summary>
+<br>
+> `Python` · `CNN (Deep Learning)` · `FastAPI` · `Clerk Auth`
+- Built a CNN image classification pipeline achieving **95% test accuracy** for multi-crop disease detection.
+- Engineered an automated recommendation engine for disease-specific crop remedies and fertilizers.
+- Integrated Clerk authentication for secure user access control.
+>https://github.com/shubhimishra1606/KrishiRakshak
+</details>
+
+<!--project 3-->
+<details>
+<summary><b><u>03. CodexAI — AI Code Reviewer & Debugger</u></b></summary>
+<br>
+>  `Generative AI` · `LLM APIs` · `React.js` · `Node.js` · `Tailwind CSS`
+- Built an AI code review tool using LLM APIs to automate debugging, code refactoring, and static analysis.
+- Designed an interactive evaluation workbench returning line-by-line debugging insights.
+</details>
 
 <br/>
 
