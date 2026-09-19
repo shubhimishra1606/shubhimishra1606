@@ -12,7 +12,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/shubhi-mishra-1a1a83375/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=social&logo=linkedin" /></a>
   <a href="mailto:shubhi2006m@gmail.com"><img src="https://img.shields.io/badge/Gmail-Connect-red?style=social&logo=gmail" /></a>
-  <a href="https://leetcode.com" target="_blank"><img src="https://img.shields.io/badge/Leetcode-Follow-black?style=social&logo=leetcode" /></a>
+  <a href="https://leetcode.com/u/_shubhimishra_/" target="_blank"><img src="https://img.shields.io/badge/Leetcode-Follow-black?style=social&logo=leetcode" /></a>
   <a href="https://github.com/shubhimishra1606" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=social&logo=github" /></a>
 </div>
 <!-- contact ends -->
@@ -22,9 +22,11 @@
 ## `~/overview`
 
 ```yaml
-status: "Building AI-powered web apps"
-current_focus: ["Scalable Web Architectures", "Machine Learning & DL", "DSA in C++"]
-open_to: ["Software Engineering Internships", "Open-Source Collaborations"]
+status: "Building Full-Stack Web & Applied AI Systems"
+milestones: ["Semi-finalist @ET GenAI Hackathon", "Global Rank 1 @EY Techathon (round 1)"]
+current_focus: ["Scalable MERN/FastAPI Apps", "Applied ML & LLMs", "DSA in C++"]
+problem_solving: "LeetCode 1620+ (Top 21% Globally), 600+ ques solved"
+open_to: ["Software Engineering Internships", "Applied AI / Full-Stack Roles"]
 ```
 
 <br/>
@@ -39,6 +41,7 @@ open_to: ["Software Engineering Internships", "Open-Source Collaborations"]
 [DEV TOOLS]    Git · Postman · VS Code
 [CORE CS]      Data Structures & Algorithms (DSA) · OOP · DBMS
 ```
+<!--skill icons-->
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,scikitlearn,tensorflow,cpp,js,react,nodejs,express,fastapi,mongodb,postgres,git,postman,vscode&perline=18" height="30" />
 </p>
@@ -47,83 +50,44 @@ open_to: ["Software Engineering Internships", "Open-Source Collaborations"]
 
 ## `~/featured work`
 
-<details>
-<summary><b>🌿 KrishiRakshak — Smart Crop Advisory & Disease Detection Platform</b></summary>
-<br/>
-
-An AI-driven mobile advisory system for farmers to detect crop diseases from leaf scans and receive automated treatment guidance.
-
-| Parameter | Details |
-| :--- | :--- |
-| **Stack** | Python · GenAI · FastAPI · React Native |
-| **Architecture** | Computer vision detection pipeline integrated with real-time advisory APIs |
-| **Repo** | [GitHub Repository](https://github.com/shubhimishra1606/KrishiRakshak) |
-
-*Key Highlights:*
-- Integrated automated disease classification for multi-crop leaf scans.
-- Designed lightweight REST API endpoints using FastAPI for mobile app sync.
-</details>
-
-<details>
-<summary><b>⚡ CodexAI — Full-Stack AI Code Reviewer & Debugger</b></summary>
-<br/>
-
-A real-time developer tool that analyzes code snippets, highlights syntax or logical bugs, and suggests optimized refactors.
-
-| Parameter | Details |
-| :--- | :--- |
-| **Stack** | MERN Stack · Gemini API · Tailwind CSS |
-| **Architecture** | Full-stack web client with prompt-engineered multi-turn AI review pipeline |
-| **Repo** | [GitHub Repository](https://github.com/shubhimishra1606/CodexAI) |
-
-*Key Highlights:*
-- Implemented structured context prompts to return line-by-line debugging feedback.
-- Clean modern responsive UI with instant markdown code highlighting.
-</details>
-
-<details>
-<summary><b>🗺️ Skillscape — Dynamic Developer Roadmap & Skill Tracker</b></summary>
-<br/>
-
-An interactive career path navigator allowing software engineering aspirants to track milestone progress across domains.
-
-| Parameter | Details |
-| :--- | :--- |
-| **Stack** | Next.js · MongoDB · Node.js · REST APIs |
-| **Architecture** | Dynamic modular roadmap rendering with persistent user progress states |
-| **Repo** | [GitHub Repository](https://github.com/shubhimishra1606/Skillscape) |
-
-*Key Highlights:*
-- Dynamic step-by-step progress tracking saved directly to user cloud profile.
-- Modular tech skill trees tailored for full-stack and software roles.
-</details>
+<p align="center">
+  <a href="https://github.com/shubhimishra1606/FemWell">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhimishra1606&repo=FemWell&theme=github_dark&bg_color=161b22&title_color=f78166&text_color=8b949e&icon_color=58a6ff&border_color=30363d" width="48%" />
+  </a>
+  <a href="https://github.com/shubhimishra1606/KrishiRakshak">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhimishra1606&repo=KrishiRakshak&theme=github_dark&bg_color=161b22&title_color=f78166&text_color=8b949e&icon_color=58a6ff&border_color=30363d" width="48%" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/shubhimishra1606/CodexAI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhimishra1606&repo=CodexAI&theme=github_dark&bg_color=161b22&title_color=f78166&text_color=8b949e&icon_color=58a6ff&border_color=30363d" width="48%" />
+  </a>
+</p>
 
 <br/>
 
 ## `~/github stats`
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubhimishra1606&theme=github_dark" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubhimishra1606&theme=github_dark&title_color=238636&icon_color=238636" alt="Profile Details" />
 </p>
 
 <br/>
 
-
+<!-- activity graph -->
 <p align="center">
   <img src="https://ghchart.rshah.org/238636/shubhimishra1606" alt="Shubhi's Github Contribution Grid" width="100%" />
 </p>
 
 <br/>
 
-
-```text
+## `~/milestones & credentials`
+```ini
 ┌─────────────────┬─────────────────────────────────┬──────────────────────────────────────────┐
 │ DOMAIN          │ CREDENTIAL / EVENT              │ KEY HIGHLIGHT                            │
 ├─────────────────┼─────────────────────────────────┼──────────────────────────────────────────┤
-│ Hackathon       │ EY Techathon 2025               │ Global Rank 1 / 1.83L+ (Score: 100/100)  │
-│ Hackathon       │ Smart India Hackathon (SIH) '26 │ Top 20 Nationally (Rank 12)              │
 │ Hackathon       │ ET GenAI Hackathon 2026         │ Semifinalist · Team Lead                 │
-│ Competitive CP  │ LeetCode                        │ Peak 1621 (Top 21% Globally)             │
-│ Certification   │ C Programming (NPTEL)           │ Elite + Silver · Top 1% Nationally       │
+│ Hackathon       │ EY Techathon 2025               │ Global Rank 1 / 1.83L+ (Round 1)         │
+│ Contest Rating  │ LeetCode                        │ Peak 1621 (Top 21% Globally)             │
 │ Certification   │ Machine Learning with Python    │ IBM Certified                            │
 │ Certification   │ AI Foundation Associate         │ Oracle Certified                         │
 └─────────────────┴─────────────────────────────────┴──────────────────────────────────────────┘
