@@ -48,35 +48,43 @@ open_to: ["Software Engineering Internships", "Applied AI / Full-Stack Roles"]
 
 <br/>
 
-## `~/featured work`
+## ~/featured work
 <!--project 1-->
 <details open>
-<summary><b>01. <a href="https://github.com/shubhimishra1606/FemWell">FemWell</a> — Women’s Health Screening Platform (Ongoing)</b></summary>
+<summary><b>01. <a href="https://github.com/shubhimishra1606/shubhimishra1606">FemWell</a> — Women’s Health Screening Platform (Ongoing)</b></summary>
 <br>
->  `Python` · `Machine Learning` · `FastAPI` · `PostgreSQL` · `JWT Auth`
-- screening models for PCOS and Anemia with accelerated inference via FastAPI backend.
-- secure JWT auth and schema for tracking historical records in PostgreSQL.
-- Built an interactive interface for symptom input and risk visualization.
+
+> `Python` · `Machine Learning` · `FastAPI` · `PostgreSQL` · `JWT Auth`
+
+- Screening models for PCOS and Anemia with accelerated inference via FastAPI backend.
+- Secure JWT auth and schema for tracking historical records in PostgreSQL.
+- Interactive interface for symptom input and risk visualization.
+
 </details>
 
 <!--project 2-->
 <details>
-<summary><b><u>02. KrishiRakshak — Plant Disease Detection System</u></b></summary>
+<summary><b>02. <a href="https://github.com/shubhimishra1606/KrishiRakshak">KrishiRakshak</a> — Plant Disease Detection System</b></summary>
 <br>
+
 > `Python` · `CNN (Deep Learning)` · `FastAPI` · `Clerk Auth`
-- Built a CNN image classification pipeline achieving **95% test accuracy** for multi-crop disease detection.
-- Engineered an automated recommendation engine for disease-specific crop remedies and fertilizers.
-- Integrated Clerk authentication for secure user access control.
->https://github.com/shubhimishra1606/KrishiRakshak
+
+- A CNN image classification pipeline for multi-crop disease detection.
+- An automated recommendation engine for disease-specific crop remedies and fertilizers.
+- Clerk authentication for secure user access control.
+
 </details>
 
 <!--project 3-->
 <details>
-<summary><b><u>03. CodexAI — AI Code Reviewer & Debugger</u></b></summary>
+<summary><b>03. <a href="https://github.com/shubhimishra1606/shubhimishra1606">CodexAI</a> — AI Code Reviewer & Debugger</b></summary>
 <br>
->  `Generative AI` · `LLM APIs` · `React.js` · `Node.js` · `Tailwind CSS`
-- Built an AI code review tool using LLM APIs to automate debugging, code refactoring, and static analysis.
+
+> `Generative AI` · `LLM APIs` · `React.js` · `Node.js` · `Tailwind CSS`
+
+- AI code review tool using LLM APIs to automate debugging, code refactoring, and static analysis.
 - Designed an interactive evaluation workbench returning line-by-line debugging insights.
+
 </details>
 
 <br/>
